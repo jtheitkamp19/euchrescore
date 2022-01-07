@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="red">#ff0000</color>
+    <color name="blue">#3b4cca</color>
+    <color name="yellow">#ffde00</color>
+    <color name="crystal">#a7d8de</color>
+    <color name="gold">#daa520</color>
+    <color name="silver">#d3d3d3</color>
+    <color name="sapphire">#880f52ba</color>
+    <color name="ruby">#88e0115f</color>
+    <color name="emerald">#8850c878</color>
+    <color name="diamond">#b9f2ff</color>
+    <color name="pearl">#eae0c8</color>
+    <color name="platinum">#e5e4e2</color>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="dark_gray">#555555</color>
+    <color name="dark_clear_gray">#88555555</color>
+    <color name="clear_black">#88000000</color>
+</resources>

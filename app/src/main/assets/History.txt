@@ -1,0 +1,7 @@
+Version 1.0.1.0
+    -Allows user to clear game specific data
+    -Fixes issue with data not saving to database
+    -Allows users to create their own games
+
+Version 1.0.0.0
+    -Initial Release

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="bottom_margin">60dp</dimen>
+    <dimen name="small_margin">4dp</dimen>
+    <integer name="max_base_stat">255</integer>
+    <dimen name="space_margin">20dp</dimen>
+    <dimen name="dialog_width">.65</dimen>
+    <dimen name="team_text_view_width">50%</dimen>
+    <dimen name="button_width">.22</dimen>
+    <dimen name="score_button_height">45dp</dimen>
+    <dimen name="score_button_spacer">15dp</dimen>
+    <dimen name="layout_spacer">.1</dimen>
+    <dimen name="menu_button_spacer">25dp</dimen>
+    <dimen name="history_button_height">60dp</dimen>
+</resources>
